@@ -5,7 +5,7 @@
 
 // Performance - Disables FES
 
-p5.disableFriendlyErrors = true;
+// p5.disableFriendlyErrors = true;
 
 let img_url = "https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=80";
 let img;
